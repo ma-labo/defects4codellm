@@ -17,7 +17,7 @@ The 47th IEEE/ACM International Conference on Software Engineering (ICSE '25)
 
 > [!TIP]
 >
-> Try our online data browser at [https://http://llm-code-errors.cs.purdue.edu](https://http://llm-code-errors.cs.purdue.edu).
+> Try our online data browser at [https://llm-code-errors.cs.purdue.edu](https://llm-code-errors.cs.purdue.edu).
 
 Details coming soon.
 
