@@ -19,14 +19,14 @@ The 47th IEEE/ACM International Conference on Software Engineering (ICSE '25)
 >
 > Try our online data browser at [https://llm-code-errors.cs.purdue.edu](https://llm-code-errors.cs.purdue.edu).
 
-Details coming soon.
+Our annotated data is available in `data/`. The source code of our online data browser is available at `website/`.
 
 ## Citation
 
 If you found our paper/code useful in your research, please consider citing:
 
 ```bibtex
-@inproceedings{wang2024promptcharm,
+@inproceedings{wang2025towards,
  author = {Wang, Zhijie and Zhou, Zijie and Song, Da and Huang, Yuheng, and Chen, Shengmai and Ma, Lei and Zhang, Tianyi},
  title = {Towards Understanding the Characteristics of Code Generation Errors Made by Large Language Models},
  booktitle = {Proceedings of the 47th IEEE/ACM International Conference on software Engineering (ICSE '25)},

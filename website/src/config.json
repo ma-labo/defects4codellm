@@ -1,0 +1,34 @@
+{
+  "data_config": {
+    "CodeGen-16B": "./data/Codegen-humaneval_error.json",
+    "InCoder-1B": "./data/incoder-humaneval_error.json",
+    "GPT-3.5":  "./data/ChatGPT-humaneval_error.json",
+    "GPT-4": "./data/gpt-4-humaneval_error.json",
+    "SantaCoder": "./data/santacoder-humaneval_error.json",
+    "StarCoder": "./data/starcoder-humaneval_error.json"
+  },
+  "code_file": {
+    "GPT-3.5":  "./data/chatgpt_code.json",
+    "CodeGen-16B": "./data/codegen_code.json",
+    "InCoder-1B": "./data/incoder_code.json",
+    "SantaCoder": "./data/santacoder_code.json",
+    "StarCoder": "./data/starcoder_code.json",
+    "Ground-truth": "./data/gt_code.json",
+    "GPT-4": "./data/gpt-4_code.json"
+  },
+  "taxonomy": "./data/taxnomoy.json",
+  "semantic_error_code": "./data/semantic_code.json",
+  "syntactic_error_code": "./data/syntactic_code.json",
+  "test_case": "./data/HumanEvalPlus-test.json",
+  "test_result": {
+    "GPT-3.5":  "./data/chatgpt_test.json",
+    "CodeGen-16B": "./data/codegen_test.json",
+    "InCoder-1B": "./data/incoder_test.json",
+    "SantaCoder": "./data/santacoder_test.json",
+    "StarCoder": "./data/starcoder_test.json",
+    "GPT-4": "./data/gpt4_test.json"
+  },
+  "failed_tasks": "./data/HumanEvalFailed.json",
+  "evalplus": true,
+  "bibtex": "@article{wang2025towards,\n title={Towards Understanding the Characteristics of Code Generation Errors Made by Large Language Models},\n author={Zhijie Wang and Zijie Zhou and Da Song and Yuheng Huang and Shengmai Chen and Lei Ma and Tianyi Zhang},\n title = {Towards Understanding the Characteristics of Code Generation Errors Made by Large Language Models},\n booktitle = {Proceedings of the 47th IEEE/ACM International Conference on software Engineering (ICSE '25)},\n year={2025}\n}"
+}

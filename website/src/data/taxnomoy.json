@@ -1,0 +1,21 @@
+{
+  "Semantic Errors": {
+    "Condition Error": ["Aa1", "Aa2"],
+    "Constant Value Error": ["Ab1"],
+    "Reference Error": ["Ac1", "Ac2"],
+    "Operation/Calculation Error": ["Ad1", "Ad4"],
+    "Gabrage Code": ["Ae1", "Ae2", "Ae3"],
+    "Incomplete Code/Missing Steps": ["Af1", "Af2"],
+    "Memory Error": ["Ag1"],
+    "Other": ["Ah1"]
+  },
+  "Syntactic Errors": {
+    "Condition Error": ["Ba1"],
+    "Loop Error": ["Bb1", "Bb2"],
+    "Return Error": ["Bc2"],
+    "Method Call Error": ["Bd1", "Bd2", "Bd3"],
+    "Assignment Error": ["Be1", "Be4", "Be5", "Be6"],
+    "Import Error": ["Bf1"],
+    "Code Block Error": ["Bg1", "Bg2"],
+    "Other": ["Bh1"]}
+}
