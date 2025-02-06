@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.54cafe41.css",
-    "main.js": "/static/js/main.2ad50440.js",
-    "index.html": "/index.html",
-    "main.54cafe41.css.map": "/static/css/main.54cafe41.css.map",
-    "main.2ad50440.js.map": "/static/js/main.2ad50440.js.map"
+    "main.css": "/defects4codellm/static/css/main.54cafe41.css",
+    "main.js": "/defects4codellm/static/js/main.2ad50440.js",
+    "index.html": "/defects4codellm/index.html",
+    "main.54cafe41.css.map": "/defects4codellm/static/css/main.54cafe41.css.map",
+    "main.2ad50440.js.map": "/defects4codellm/static/js/main.2ad50440.js.map"
   },
   "entrypoints": [
     "static/css/main.54cafe41.css",

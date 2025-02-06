@@ -2,7 +2,7 @@
   "name": "react-d3-dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ma-labo.github.io/defects4codellm",
+  "homepage": "https://ma-labo.github.io/defects4codellm/",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
