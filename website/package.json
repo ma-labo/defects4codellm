@@ -2,8 +2,11 @@
   "name": "react-d3-dashboard",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ma-labo.github.io/defects4codellm",
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -35,6 +38,7 @@
     "@mui/material": "^5.11.8",
     "@mui/x-charts": "^6.0.0-alpha.15",
     "@mui/x-data-grid": "^6.16.2",
+    "gh-pages": "^6.3.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-router-dom": "^6.16.0",
