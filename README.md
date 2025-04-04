@@ -1,7 +1,7 @@
 # Towards Understanding the Characteristics of Code Generation Errors Made by Large Language Models
 
 <p align="center">
-    <a href="https://llm-code-errors.cs.purdue.edu"><img src="https://img.shields.io/badge/%F0%9F%8F%86-Data Browser-8A2BE2"></a>
+    <a href="https://llm-code-errors.cs.purdue.edu"><img src="https://img.shields.io/badge/%F0%9F%96%A5-Data Browser-8A2BE2"></a>
     <a href="https://arxiv.org/abs/2406.08731"><img src="https://img.shields.io/badge/ArXiv-ICSE'25-a55fed.svg"></a>
 </p>
 
